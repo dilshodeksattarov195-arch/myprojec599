@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "authcerify",
+        "uuid": 4863281,
+        "checksum": "mpp4ol"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
